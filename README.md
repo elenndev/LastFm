@@ -5,3 +5,4 @@ Olá!! Nesse projeto estou tentando refazer o design do site do last fm que é u
 
 # Resumo geral até o momento
 Algumas imagens desse processo:
+
