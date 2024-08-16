@@ -7,19 +7,23 @@
   Algumas imagens desse processo:
 ## Perfil
 Original
-<img src="screenshots/perfil - original.png">
+<img src="screenshots/perfil - original.png" width="700">
 Remake
-<img src="screenshots/perfil.png">
-<img src="screenshots/perfil[2].png">
-<img src="screenshots/perfil[3].png">
+<img src="screenshots/perfil.png" width="700">
+<img src="screenshots/perfil[2].png" width="700">
+<img src="screenshots/perfil[3].png" width="700">
   
 [Visite o site oficial do lastFm(Perfill)](https://www.last.fm/pt/user/GOTHMIKASA)
 ## Página Inicial
 
 Original
-<img src="screenshots/pg inicial - original.png">
+<img src="screenshots/pg inicial - original.png" width="700">
 Remake
-<img src="screenshots/pg inicial.png">
+<img src="screenshots/pg inicial.png" width="700">
 [Visite o site oficial do lastFm(Pagina inicial)](https://www.last.fm/pt/home)
-## Artista
 
+## Artista
+Original
+<img src="screenschots/artista - original.png" width="700">
+Remake
+<img src="screenschots/artista.png" width="700">
