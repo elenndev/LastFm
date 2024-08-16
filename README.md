@@ -9,6 +9,6 @@
 
 ## Página Inicial
 
-![Remake](pg inicial.png)
+<img src="pg inicial.png">
 ## Artista
 
