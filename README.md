@@ -6,12 +6,20 @@
 # Resumo geral até o momento
   Algumas imagens desse processo:
 ## Perfil
-<
-Link do Site oficial LastFm: https://www.last.fm/pt/user/GOTHMIKASA
-## Página Inicial
+Original
+<img src="screenshots/perfil - original.png">
 Remake
-<img src="screenshots/pg inicial.png">
+<img src="screenshots/perfil.png">
+<img src="screenshots/perfil[2].png">
+<img src="screenshots/perfil[3].png">
+  
+[Visite o site oficial do lastFm(Perfill)](https://www.last.fm/pt/user/GOTHMIKASA)
+## Página Inicial
+
 Original
 <img src="screenshots/pg inicial - original.png">
+Remake
+<img src="screenshots/pg inicial.png">
+[Visite o site oficial do lastFm(Pagina inicial)](https://www.last.fm/pt/home)
 ## Artista
 
