@@ -9,25 +9,25 @@ Todos os créditos pertencem ao LastFm, esse projeto não tem nenhuma finalidade
   Algumas imagens desse processo:
 ## Perfil
 Original  
-<img src="screenshots/perfil - original.png" width="700">
+<img src="screenshots/perfil - original.png" width="700">  
 Remake  
-<img src="screenshots/perfil.png" width="700">
-<img src="screenshots/perfil[2].png" width="700">
-<img src="screenshots/perfil[3].png" width="700">
+<img src="screenshots/perfil.png" width="700">  
+<img src="screenshots/perfil[2].png" width="700">  
+<img src="screenshots/perfil[3].png" width="700">  
   
 [Visite o site oficial do lastFm(Perfill)](https://www.last.fm/pt/user/GOTHMIKASA)
 ## Página Inicial
 
 Original  
-<img src="screenshots/pg inicial - original.png" width="700">
+<img src="screenshots/pg inicial - original.png" width="700">  
 Remake  
-<img src="screenshots/pg inicial.png" width="700">
+<img src="screenshots/pg inicial.png" width="700">  
 [Visite o site oficial do lastFm(Pagina inicial)](https://www.last.fm/pt/home)
 
 ## Artista
 Original  
-<img src="screenshots/artista - original.png" width="700">
+<img src="screenshots/artista - original.png" width="700">  
 Remake  
-<img src="screenshots/artista.png" width="700">
-<img src="screenshots/artista[hover].png" width="700">
+<img src="screenshots/artista.png" width="700">  
+<img src="screenshots/artista[hover].png" width="700">  
 [Visite o site oficial do lastFm(Artista)](https://www.last.fm/pt/music/Yves)
