@@ -27,3 +27,4 @@ Original
 <img src="screenschots/artista - original.png" width="700">
 Remake
 <img src="screenschots/artista.png" width="700">
+<img src="screenschots/artista[hover].png" width="700">
