@@ -443,12 +443,14 @@ main{
                     }
                 }
             }
-            div{
-                display: flex;
-                flex-direction: row;
+            ul{
+                list-style: none;
+                display: grid;
+                grid-template-columns: auto auto auto auto auto;
+                grid-template-rows: auto;
                 align-items: center;
                 gap: 5px;
-                span{
+                li.artista{
                     display: flex;
                     flex-direction: column;
                     align-items: center;
@@ -458,9 +460,12 @@ main{
                         width: 135px;
                         border-radius: 50%;
                     }
-                }
-                .center{
-                    margin-bottom: 30px;
+                    .center{
+                        margin-bottom: 30px;
+                    }
+                    button[name= "more-next"]{
+                        padding: 0;
+                    }
                 }
             }
         }
