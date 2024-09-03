@@ -398,6 +398,9 @@ main{
             padding: 25px;
             font-family: "Inter", sans-serif;
             border-radius: 40px;
+            a{
+                color: #D92323;
+            }
             
             ul{
                 margin-top: 20px;
@@ -446,7 +449,7 @@ main{
             ul{
                 list-style: none;
                 display: grid;
-                grid-template-columns: auto auto auto auto auto;
+                grid-template-columns: 52px auto auto auto 52px;
                 grid-template-rows: auto;
                 align-items: center;
                 gap: 5px;
